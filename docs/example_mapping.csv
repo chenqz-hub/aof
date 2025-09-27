@@ -1,0 +1,2 @@
+original_path,subject_code,series_description,modality,acquisition_date,nii_path,notes
+data/raw/subj001_series1,sub-subj001,Head MRI,MR,20250101,data/processed/sub-subj001/sub-subj001.nii.gz,anonymized and converted
